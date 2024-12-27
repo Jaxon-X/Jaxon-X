@@ -1,4 +1,4 @@
-# Jaxon
+# Jaxon Xudoyberdiyev
 
 An enthusiastic software engineer hailing from Uzbekistan.
 
@@ -6,7 +6,6 @@ An enthusiastic software engineer hailing from Uzbekistan.
 
 ## 🌟 Languages - Frameworks - Tools - Operating Systems
 
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
