@@ -4,7 +4,7 @@ An enthusiastic software engineer hailing from Uzbekistan.
 
 ---
 
-## 🌟 Languages - Frameworks - Tools - Operating Systems
+## 🌟 Languages - Frameworks - Tools - Operating Systems.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
