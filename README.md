@@ -7,6 +7,8 @@ An enthusiastic software engineer hailing from Uzbekistan.
 ## 🌟 Languages - Frameworks - Tools - Operating Systems.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white&logoWidth=20)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -17,6 +19,7 @@ An enthusiastic software engineer hailing from Uzbekistan.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 
 ---
 
